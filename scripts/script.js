@@ -10,19 +10,19 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
+          name: "Коз коркак кол батыр",
+          artist: "Raim & Adil",
+          cover: "https://i.ytimg.com/vi/qKdYM76aFEs/maxresdefault.jpg",
           source: "../mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          url: "https://youtu.be/qKdYM76aFEs",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "../mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          name: "Тойга щащу",
+          artist: "Кабдол Тлеков",
+          cover: "https://i.ytimg.com/vi/OoBtSU71rks/maxresdefault.jpg",
+          source: "../mp3/2.m4a",
+          url: "https://youtu.be/OoBtSU71rks",
           favorited: true
         },
         {
