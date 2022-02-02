@@ -21,16 +21,16 @@ new Vue({
           name: "Тойга щащу",
           artist: "Кабдол Тлеков",
           cover: "https://i.ytimg.com/vi/OoBtSU71rks/maxresdefault.jpg",
-          source: "../mp3/2.m4a",
+          source: "../mp3/2.mp3",
           url: "https://youtu.be/OoBtSU71rks",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+          name: "Dancin",
+          artist: "Aaron",
+          cover: "https://direct.rhapsody.com/imageserver/images/alb.364088627/600x600.jpg",
           source: "../mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          url: "https://t.me/remix_muzikalar/7773",
           favorited: false
         },
         {
