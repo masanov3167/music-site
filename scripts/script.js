@@ -34,51 +34,51 @@ new Vue({
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
+          name: "Lily",
+          artist: "Shir",
+          cover: "https://i.ytimg.com/vi/spfMbor_24I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA0K-kEGR8rc755P7sacX21Qz7m0A",
           source: "../mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          url: "https://t.me/remix_muzikalar/7689",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
+          name: "Memories",
+          artist: "Xcho & Macan",
+          cover: "https://mp3tik-tok.com/uploads/posts/2020-10/1603659604-11603659603-1.jpg",
           source: "../mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
+          url: "https://t.me/remix_muzikalar/736",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
+          name: "Shahrezad",
+          artist: "Al Fakher",
+          cover: "https://i.ytimg.com/vi/WRDPzxy1-Sc/maxresdefault.jpg",
           source: "../mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          url: "https://youtu.be/tBDc2By_-uY",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
+          name: "Te molla",
+          artist: "Arnon & Killua",
+          cover: "https://i1.sndcdn.com/artworks-000476712870-fd8gib-t500x500.jpg",
           source: "../mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
+          url: "https://t.me/remix_muzikalar/322",
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+          name: "Музыка",
+          artist: "Dj Khazik",
+          cover: "https://muzofond.fm/img/collections/329738_big.jpg",
           source: "../mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          url: "https://t.me/remix_muzikalar/2661",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+          name: "Yarala meni",
+          artist: "Ka-Re",
+          cover: "https://samunas.ru/image/ka-re-kakajan-rejepow-on-na-ney-2018.jpg",
           source: "../mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://t.me/remix_muzikalar/4627",
           favorited: false
         }
       ],
